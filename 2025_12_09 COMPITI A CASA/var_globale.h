@@ -1,0 +1,1 @@
+extern int variabile_globale1;

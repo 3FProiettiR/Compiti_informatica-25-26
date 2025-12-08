@@ -1,0 +1,1 @@
+int variabile_globale1=99;
